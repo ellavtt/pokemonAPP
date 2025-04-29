@@ -1,5 +1,3 @@
-# pokemonAPP
-
 # API de Cadastro de Pessoas
 
 Este projeto é uma **API REST** desenvolvida com **Spring Boot** para realizar o cadastro de pessoas. A aplicação utiliza **JPA** para persistência de dados no **banco MySQL** e a biblioteca **Lombok** para simplificar o código e reduzir a quantidade de getters e setters.
